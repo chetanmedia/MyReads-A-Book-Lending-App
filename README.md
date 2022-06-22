@@ -4,9 +4,11 @@
 
 This project is a final project of the Udacity's React Fundamentals course section.
 
-## Installation
+## Installation and Instruction to run the project
 
-Download ZIP file or clone it from this repository. Then using your terminal navigate to the downloaded or cloned folder and in your terminal window type: npm install. After successful installation: npm start. Application will be available at http://localhost:3000/ via browser.
+1.Download ZIP file or clone it from this repository. 
+2.Using terminal window type: npm install. After successful installation: npm start. 
+3.Application will be available at http://localhost:3000/ via browser.
 
 ## Author
 
