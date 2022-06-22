@@ -12,9 +12,6 @@ This project is a final project of the Udacity's React Fundamentals course secti
 
 3.Open http://localhost:3000/ via browser.
 
-## Author
-
-Based on the starter code provided by Udacity.
 
 ## Contributing
 
