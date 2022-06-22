@@ -15,7 +15,7 @@ This project is a final project of the Udacity's React Fundamentals course secti
 
 ## Contributing
 
-It is not possible to contribute to this project.
+This repository is the starter code for all Udacity students. Therefore, we most likely will not accept pull requests.
 
 ## Dependencies
 
