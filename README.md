@@ -2,8 +2,7 @@
 
 ## About
 
-This is the project of the Google Udacity FEND nanodegree.
-It's a book lending application.
+This project is a final project of the Udacity's React Fundamentals course section.
 
 ## Installation
 
